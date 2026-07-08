@@ -1,0 +1,38 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Knowledge Management",
+      "description": "Obsidian-native integrations for personal knowledge graphs.",
+      "skills": [
+        "obsidian-markdown",
+        "obsidian-cli",
+        "obsidian-bases",
+        "second-brain"
+      ]
+    },
+    {
+      "title": "Agent Ops",
+      "description": "Meta-skills for teaching, adapting, and expanding agent capabilities.",
+      "skills": [
+        "skill-creator"
+      ]
+    },
+    {
+      "title": "Productivity",
+      "description": "Skills for learning, accelerating workflows, and personal development.",
+      "skills": [
+        "teach"
+      ]
+    },
+    {
+      "title": "Engineering",
+      "description": "Architectural alignment and structural engineering disciplines.",
+      "skills": [
+        "grill-with-docs",
+        "improve-codebase-architecture"
+      ]
+    }
+  ]
+}
