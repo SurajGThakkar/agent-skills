@@ -31,7 +31,7 @@ We focus on curing three core Agent Failure Modes:
 **[Explore the Second Brain skill →](skills/knowledge-management/second-brain/README.md)**
 
 ```bash
-npx skills@latest add surajthakkar/agent-skills/second-brain
+npx skills@latest add surajgthakkar/agent-skills/second-brain
 ```
 
 ---
@@ -69,7 +69,7 @@ These skills are compliant with the standard [Agent Skills specification](https:
 Install dynamically into any supported environment via the CLI:
 
 ```bash
-npx skills@latest add surajthakkar/agent-skills
+npx skills@latest add surajgthakkar/agent-skills
 ```
 
 ### Manual Installation

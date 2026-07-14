@@ -15,7 +15,7 @@ The `second-brain` skill enables your agent to autonomously setup, maintain, and
 You can install this skill globally or on a per-project basis using the `skills.sh` CLI:
 
 ```bash
-npx skills add surajthakkar/agent-skills --skill second-brain
+npx skills add surajgthakkar/agent-skills --skill second-brain
 ```
 
 ## Usage
