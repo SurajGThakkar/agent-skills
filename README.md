@@ -51,6 +51,7 @@ Meta-skills for teaching, adapting, and expanding agent capabilities.
 
 ### Productivity
 Skills for learning, accelerating workflows, and personal development.
+- **[`grilling`](skills/productivity/grilling/README.md)** *(via Matt Pocock)*: Grill the user relentlessly about a plan, decision, or idea to stress-test their thinking.
 - **[`teach`](skills/productivity/teach/README.md)** *(via Matt Pocock)*: A stateful learning workspace that teaches the user a new concept over multiple sessions.
 
 ### Engineering

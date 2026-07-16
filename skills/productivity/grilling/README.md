@@ -1,17 +1,17 @@
-# teach
+# grilling
 
 > **Original Author:** [Matt Pocock](https://github.com/mattpocock/skills)
 
 ## Overview
 
-Teach the user a new skill or concept, within this workspace.
+Grill the user relentlessly about a plan, decision, or idea. Use when the user wants to stress-test their thinking, or uses any 'grill' trigger phrases.
 
 ## Installation
 
 Install this skill dynamically into any supported environment via the CLI:
 
 ```bash
-npx skills@latest add surajgthakkar/agent-skills --skill teach
+npx skills@latest add surajgthakkar/agent-skills --skill grilling
 ```
 
 ## Usage
